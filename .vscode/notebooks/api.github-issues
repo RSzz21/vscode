@@ -5,7 +5,8 @@
     "value": "#### Config"
   },
   {
-    "kind": 2,
+.vscode/notebooks/my-endgame.github-Issues
+ m3
     "language": "github-issues",
     "value": "$repo=repo:microsoft/vscode\n$milestone=milestone:\"May 2023\""
   },
